@@ -1,0 +1,10 @@
+[
+    {
+        "merged": "/Android /ResideMenuDemo/resideMenu/build/intermediates/res/merged/androidTest/debug/drawable-hdpi-v4/ic_launcher.png",
+        "source": "/Android /ResideMenuDemo/resideMenu/build/intermediates/bundles/debug/res/drawable-hdpi-v4/ic_launcher.png"
+    },
+    {
+        "merged": "/Android /ResideMenuDemo/resideMenu/build/intermediates/res/merged/androidTest/debug/drawable-hdpi-v4/shadow.9.png",
+        "source": "/Android /ResideMenuDemo/resideMenu/build/intermediates/bundles/debug/res/drawable-hdpi-v4/shadow.9.png"
+    }
+]

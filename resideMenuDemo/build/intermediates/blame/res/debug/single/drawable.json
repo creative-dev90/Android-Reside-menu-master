@@ -1,0 +1,10 @@
+[
+    {
+        "merged": "/Android /ResideMenuDemo/resideMenuDemo/build/intermediates/res/merged/debug/drawable/button_selector.xml",
+        "source": "/Android /ResideMenuDemo/resideMenuDemo/src/main/res/drawable/button_selector.xml"
+    },
+    {
+        "merged": "/Android /ResideMenuDemo/resideMenuDemo/build/intermediates/res/merged/debug/drawable/titlebar_menu_selector.xml",
+        "source": "/Android /ResideMenuDemo/resideMenuDemo/src/main/res/drawable/titlebar_menu_selector.xml"
+    }
+]

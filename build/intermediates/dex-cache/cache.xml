@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="false"
+        jar="/Android /ResideMenuDemo/resideMenuDemo/build/intermediates/exploded-aar/ResideMenuDemo/resideMenu/unspecified/jars/libs/nineoldandroids-library-2.4.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="f086e018e187da53a1432c188023c86d1fa3ff73">
+        <dex dex="/Android /ResideMenuDemo/resideMenuDemo/build/intermediates/pre-dexed/debug/nineoldandroids-library-2.4.0_bd34c1c57a8c53e45b6d674e2ea50958abc4e3dc.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Android /ResideMenuDemo/resideMenuDemo/build/intermediates/exploded-aar/ResideMenuDemo/resideMenu/unspecified/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="ce22593b86a2e18dcf89be718a70a0118c94ee2c">
+        <dex dex="/Android /ResideMenuDemo/resideMenuDemo/build/intermediates/pre-dexed/debug/ResideMenuDemo-resideMenu-unspecified_4bc5129a7aae5f70f3551d9b9321f5a317bb8df1.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/charchitkasliwal/Library/Android/sdk/extras/android/m2repository/com/android/support/support-v4/18.0.0/support-v4-18.0.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="44ec51e9d395a47aab135e5e1b556c0007442156">
+        <dex dex="/Android /ResideMenuDemo/resideMenuDemo/build/intermediates/pre-dexed/debug/support-v4-18.0.0_3285858b9ae50fad0710c0356c6f191939646396.jar" />
+    </item>
+
+</items>

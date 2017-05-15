@@ -1,0 +1,10 @@
+[
+    {
+        "merged": "/Android /ResideMenuDemo/resideMenu/build/intermediates/res/merged/androidTest/debug/layout/residemenu_item.xml",
+        "source": "/Android /ResideMenuDemo/resideMenu/build/intermediates/bundles/debug/res/layout/residemenu_item.xml"
+    },
+    {
+        "merged": "/Android /ResideMenuDemo/resideMenu/build/intermediates/res/merged/androidTest/debug/layout/residemenu.xml",
+        "source": "/Android /ResideMenuDemo/resideMenu/build/intermediates/bundles/debug/res/layout/residemenu.xml"
+    }
+]

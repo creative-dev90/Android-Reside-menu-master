@@ -1,0 +1,46 @@
+[
+    {
+        "merged": "/Android /ResideMenuDemo/resideMenuDemo/build/intermediates/res/merged/debug/drawable-hdpi/button_on.9.png",
+        "source": "/Android /ResideMenuDemo/resideMenuDemo/src/main/res/drawable-hdpi/button_on.9.png"
+    },
+    {
+        "merged": "/Android /ResideMenuDemo/resideMenuDemo/build/intermediates/res/merged/debug/drawable-hdpi/button.9.png",
+        "source": "/Android /ResideMenuDemo/resideMenuDemo/src/main/res/drawable-hdpi/button.9.png"
+    },
+    {
+        "merged": "/Android /ResideMenuDemo/resideMenuDemo/build/intermediates/res/merged/debug/drawable-hdpi/title_bar_menu_on.png",
+        "source": "/Android /ResideMenuDemo/resideMenuDemo/src/main/res/drawable-hdpi/title_bar_menu_on.png"
+    },
+    {
+        "merged": "/Android /ResideMenuDemo/resideMenuDemo/build/intermediates/res/merged/debug/drawable-hdpi/frame.png",
+        "source": "/Android /ResideMenuDemo/resideMenuDemo/src/main/res/drawable-hdpi/frame.png"
+    },
+    {
+        "merged": "/Android /ResideMenuDemo/resideMenuDemo/build/intermediates/res/merged/debug/drawable-hdpi/icon_settings.png",
+        "source": "/Android /ResideMenuDemo/resideMenuDemo/src/main/res/drawable-hdpi/icon_settings.png"
+    },
+    {
+        "merged": "/Android /ResideMenuDemo/resideMenuDemo/build/intermediates/res/merged/debug/drawable-hdpi/menu_background.png",
+        "source": "/Android /ResideMenuDemo/resideMenuDemo/src/main/res/drawable-hdpi/menu_background.png"
+    },
+    {
+        "merged": "/Android /ResideMenuDemo/resideMenuDemo/build/intermediates/res/merged/debug/drawable-hdpi/ic_launcher.png",
+        "source": "/Android /ResideMenuDemo/resideMenuDemo/src/main/res/drawable-hdpi/ic_launcher.png"
+    },
+    {
+        "merged": "/Android /ResideMenuDemo/resideMenuDemo/build/intermediates/res/merged/debug/drawable-hdpi/title_bar_menu.png",
+        "source": "/Android /ResideMenuDemo/resideMenuDemo/src/main/res/drawable-hdpi/title_bar_menu.png"
+    },
+    {
+        "merged": "/Android /ResideMenuDemo/resideMenuDemo/build/intermediates/res/merged/debug/drawable-hdpi/icon_profile.png",
+        "source": "/Android /ResideMenuDemo/resideMenuDemo/src/main/res/drawable-hdpi/icon_profile.png"
+    },
+    {
+        "merged": "/Android /ResideMenuDemo/resideMenuDemo/build/intermediates/res/merged/debug/drawable-hdpi/icon_home.png",
+        "source": "/Android /ResideMenuDemo/resideMenuDemo/src/main/res/drawable-hdpi/icon_home.png"
+    },
+    {
+        "merged": "/Android /ResideMenuDemo/resideMenuDemo/build/intermediates/res/merged/debug/drawable-hdpi/icon_calendar.png",
+        "source": "/Android /ResideMenuDemo/resideMenuDemo/src/main/res/drawable-hdpi/icon_calendar.png"
+    }
+]

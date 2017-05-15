@@ -1,0 +1,10 @@
+[
+    {
+        "merged": "/Android /ResideMenuDemo/resideMenuDemo/build/intermediates/res/merged/debug/drawable-ldpi/ic_launcher.png",
+        "source": "/Android /ResideMenuDemo/resideMenuDemo/src/main/res/drawable-ldpi/ic_launcher.png"
+    },
+    {
+        "merged": "/Android /ResideMenuDemo/resideMenuDemo/build/intermediates/res/merged/debug/drawable-ldpi/gesture.png",
+        "source": "/Android /ResideMenuDemo/resideMenuDemo/src/main/res/drawable-ldpi/gesture.png"
+    }
+]
